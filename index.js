@@ -18,8 +18,10 @@ function sayHiToGrandma(string) {
   if (string === whisper(string)) {
     console.log("I can't hear you!")
     }
-    else if ( string === shout(string)) {
+    else if (string === shout(string)) {
       console.log("YES INDEED!")
       }
-    else () {
+    else if (string === "I love you, Grandma") {
+      console.log("I love you, too.")
+      }
 }
