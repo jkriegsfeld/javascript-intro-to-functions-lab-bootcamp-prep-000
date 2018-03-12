@@ -21,5 +21,5 @@ function sayHiToGrandma(string) {
     else if ( string === shout(string)) {
       console.log("YES INDEED!")
       }
-    else ()
+    else () {
 }
